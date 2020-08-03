@@ -1,0 +1,5 @@
+[19-Apr-2019 18:37:56 UTC] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 13:37:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home2/gambus78/public_html/gambusiness.com/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/gambus78/public_html/gambusiness.com/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
